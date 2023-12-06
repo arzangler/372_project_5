@@ -1,10 +1,10 @@
 import com.sun.jdi.StringReference;
 
 public class State {
-    // Instance variables?
-    private char player;
-    private String board;
-    private String move;
+    // well don't use lol
+    private final char player;
+    private final String board;
+    private final String move;
     public State(String stateAsString) {
         this.player = stateAsString.charAt(0);
         this.board = stateAsString.substring(1, 4);
