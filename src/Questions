@@ -1,0 +1,19 @@
+1. What bugs and conceptual difficulties did you encounter?
+    How did you overcome them? What did you learn?
+
+    * The most difficult part of the project for me was getting the Q table to update
+    with the correct values. The main problems were getting the min and max values.
+    I learned that there were problems using Double.MINVALUE or MAXVALUE when comparing
+    numbers.
+
+2. I worked with Cameron and Nalvi for some parts of the project. We were going over
+some of the concepts together.
+
+3. Again the min and max values took a long time to get through to get the Q table to update
+correctly.
+
+4. N/a
+
+5. This project was an interesting one. I definitely underestimated the amount of time
+that it would take to complete. I also felt that a minimax algorithm would work better for this
+game, but I am not sure.
